@@ -1,5 +1,3 @@
-# zombie-survival-unity-prototype
-Unity gameplay prototype demonstrating player movement, enemy AI, NavMesh navigation, C# scripting, and Animator Controller systems.
 # Zombie Survival — Unity Gameplay Prototype
 
 A Unity first-person gameplay prototype focused on player movement, enemy AI, navigation, and animation systems.
