@@ -30,7 +30,9 @@ The prototype demonstrates:
 
 ## 🎥 Development Walkthrough
 
-[Video coming soon]
+A full walkthrough demonstrating the gameplay implementation, C# scripts, zombie AI, NavMesh setup, and Animator Controller.
+
+[Watch the full development walkthrough → (https://drive.google.com/file/d/1YwVvHzt3pfb2htOROFSZIyvy2sGaNRRR/view?usp=sharing)]
 
 ## 🤖 Enemy AI
 
